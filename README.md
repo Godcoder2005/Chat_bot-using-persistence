@@ -1,10 +1,3 @@
-Nice work — this is a **clean LangGraph + HF chatbot with memory** 👍
-Below is a **professional, beginner-friendly README.md** you can directly copy-paste into your repo.
-
-I’ve written it in a **clear, non-AI-ish style**, suitable for GitHub and LinkedIn projects.
-
----
-
 # 🧠 LangGraph Chatbot with Hugging Face LLM
 
 This project implements a **stateful chatbot** using **LangGraph** and a **Hugging Face LLM**, with **conversation memory** enabled via a checkpointer.
