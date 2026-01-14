@@ -2,8 +2,6 @@
 
 This is the rough workflow of my project
 
-
-##################################################### How to run in your machine ##################################################################################
 ## 🚀 Getting Started
 
 Follow the steps below to set up and run the project locally.
@@ -96,6 +94,7 @@ streamlit run app.py
 * UI is built using **Streamlit** for quick interaction and demos.
 
 ---
+
 
 
 
